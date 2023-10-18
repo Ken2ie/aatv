@@ -1,0 +1,18 @@
+# flutter_native_splash-production.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/logo/splash.png
+  # branding: assets/branding-production.png
+  color_dark: "#121212"
+  image_dark: assets/logo/aatv.png
+  branding_dark: assets/logo/aatv.png
+  android: true
+  ios: true
+
+  android_12:
+    image: assets/logo/aatv.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/logo/aatv.png
+    icon_background_color_dark: "#121212"
+
+  web: false
