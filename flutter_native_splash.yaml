@@ -1,7 +1,7 @@
 # flutter_native_splash-production.yaml
 flutter_native_splash:
   color: "#ffffff"
-  image: assets/logo/splash.png
+  image: assets/logo/aatv.png
   # branding: assets/branding-production.png
   color_dark: "#121212"
   image_dark: assets/logo/aatv.png
