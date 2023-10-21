@@ -48,6 +48,15 @@ dependencies:
   flutter_paystack_payment: ^0.1.3+1
   google_sign_in: ^6.1.5
   video_player: ^2.7.2
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_launcher_icons:
+    image_path: "assets/logo/aatv2.png"
+    image_path_android: "assets/images/aatv2.png"
+    image_path_ios: "assets/images/aatv2.png"
+    android: true # can specify file name here e.g. "ic_launcher"
+    ios: true 
 
 dev_dependencies:
   flutter_test:
@@ -81,6 +90,7 @@ flutter:
     - assets/png/breakthroughHour1.png
     - assets/png/breakthroughHour2.png
     - assets/png/google.png
+    - assets/logo/aatv2.png
 
     # SVG
     - assets/svg/apple.svg
